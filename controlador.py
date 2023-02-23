@@ -3,7 +3,7 @@ from actualizar import *
 from eliminar import *
 from leer import *
 acumulador={}
-#EJERCICIO DE DICCIONARIO AGREGANDO FECHAS
+#EJERCICIO DE BIBLIOTECA AGREGANDO FECHAS
 while True:
     print("-"*50)
     print(
